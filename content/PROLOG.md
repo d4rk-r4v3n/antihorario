@@ -17,3 +17,6 @@ Recordo al chico de su infancia, el hermano adoptivo de su amiga. Siempre estaba
 Mientras se encontraba perdido en sus pensamientos, observo que se veia extraño el suelo debajo de la lapida, como si hubiera sido removido recientemente. Era estupido, pero tuvo el impulso de excavar, por lo que, aunque se veia estupido empezo a escabar con todas sus fuerzas. Luego de un tiempo encontro una pequeña caja de madera que habia sido enterrada allí, Abrio la caja y encontro un reloj de bolsillo de plata, junto con una carta. Primero leyo la carta y se sorprendio, porque parecia muy parecido a su propia letra, decia ***Si quieres salvarla esto te sera de ayuda***. No entendio que era todo eso, parecia mas una broma de muy mal gusto.
 
 Reviso mas detenidamente el reloj y a pesar que este reloj tenia mucahs mas lineas , y que era negro con blanco, lo que mas le sorpendio fue otra cosa. Este reloj tenia sus agiujas moviendose en sentido **antihorario**
+
+[Proximo Capitulo](./CH01.md)
+[Indice](../Index.md)
