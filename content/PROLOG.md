@@ -19,4 +19,5 @@ Mientras se encontraba perdido en sus pensamientos, observo que se veia extraño
 Reviso mas detenidamente el reloj y a pesar que este reloj tenia mucahs mas lineas , y que era negro con blanco, lo que mas le sorpendio fue otra cosa. Este reloj tenia sus agiujas moviendose en sentido **antihorario**
 
 [Proximo Capitulo](./CH01.md)
+
 [Indice](../Index.md)
