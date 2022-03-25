@@ -2,7 +2,7 @@
 
 Hay estaba él, en el Cementerio, denuevo enfrente de su tumba. Hoy era el 12vo aniversario de la muerte de ella y él como todos los años habia venido a visitarla para conmemorar su muerte.
 
-**Como no me habia dado cuenta, debi haberlo sabido...**. Lamento él.
+**\[Como no me habia dado cuenta, debi haberlo sabido...\]**. Lamento él.
 	
 Aqui llacia su mejor amiga muerta, su amor de infansia. Esta hubiera sido una visita comun como todos los años, pero, lamentablemente sus sospechas habian sido confirmadas. La muerte de ella siempre estuvo envuelta en mucho misterio, en primer lugar nunca se encontro el cuerpo de ella, como tambien esta el hecho de que en esa epoca siempre la veia con una mirada triste y distante. Solo tenian 9 años en esa epoca, pero aun asi penso que debia haberse dado cuenta.
 
