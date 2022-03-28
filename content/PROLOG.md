@@ -46,4 +46,4 @@ No entendia a que regalo se referia el sujeto de la carta, hasta que vio el relo
 
 [Proximo Capitulo](./CH01.md)
 
-[Indice](../Index.md)
+[Indice](../README.md)
